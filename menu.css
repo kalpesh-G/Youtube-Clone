@@ -1,0 +1,28 @@
+body ul li{
+    
+    list-style: none;
+    display:inline-block;
+}
+body ul {
+    padding-top:20px;
+    box-sizing: border-box;
+    margin-left: none;
+    position: -webkit-sticky;
+    height: 120px    ;
+    position: sticky;
+    top: 0;
+    background: white;
+    border-bottom:2px solid black;
+    
+}
+
+
+
+div .home{
+    display: inline;
+}
+div .q{
+    display: inline;
+}
+
+
